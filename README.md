@@ -10,3 +10,8 @@ The website features a working login and sign-up system, dynamic/responsive page
 - Import it under the test_db database
 - When successfully done, open any browser and type localhost/project-website under the search tab
 - Once redirected to the login page you can login in to the website using - Username : rocketboy, Password : 12345
+# Contributing
+If you would like to contribute to Grocomart, please follow these steps:
+
+Fork the repository. Create a new branch for your changes. Make your changes and test them thoroughly. Submit a pull request.
+  
