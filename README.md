@@ -15,5 +15,5 @@ If you would like to contribute to Grocomart, please follow these steps:
 
 Fork the repository. Create a new branch for your changes. Make your changes and test them thoroughly. Submit a pull request.
 # Bugs
-Admin panel has not be integrated yet, it will show error.
+Admin panel is not integrated, it will show error.
   
