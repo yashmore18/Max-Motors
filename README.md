@@ -9,7 +9,7 @@ The website features a working login and sign-up system, dynamic/responsive page
 - Now using any text editor copy the code from the db folder.
 - Import it under the test_db database.
 - When successfully done, open any browser and type localhost/project-website under the search tab.
-- Once redirected to the login page you can login in to the website using - Username : rocketboy, Password : 12345.
+- Once redirected to the login page you can create a new account or login in to the website using - Username : rocketboy, Password : 12345.
 # Contributing
 If you would like to contribute to Max-Motors, please follow these steps:
 
